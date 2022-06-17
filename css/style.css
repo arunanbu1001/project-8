@@ -1,0 +1,159 @@
+#back {
+  background-color: #ffff;
+}
+.full{
+  display: flex;
+}
+ .logo {
+  width: 20%;
+  text-align: center;
+  
+  background-color: #dfefff;
+   
+  color: rgb(0, 0, 0);
+}
+.logo i{
+  margin-right: 5px;
+}
+.logo h1{
+  font-size: 28px;
+  margin-top: 25px;
+}
+.logo p{
+  margin-top: 20px;
+    font-size: 18px;
+    line-height: 40px;
+}
+.right_content {
+  width: 78%;
+  height: 500px;
+   
+  background-color: rgb(244, 253, 253);
+  
+   
+  color: black;
+}
+.right_content nav {
+  display: flex;
+  padding: 20px 20px;
+  justify-content: space-between;
+   
+  background-color: #d6ebfa;
+}
+.f1 h2 {
+   text-align: end;
+    
+}
+.batch {
+  text-align: center;
+  justify-content: center;
+   
+  height: auto;
+  
+}
+
+.batch h4{
+  text-align: center;
+  font-size: 27px;
+  margin-top: 25px;
+}
+
+.list {
+  display: flex;margin: 0px 0px;
+  margin: 50px 25px;
+  justify-content: space-around;
+}
+.box {
+  border: 1px solid;
+  
+  border-radius: 20px;
+  width: 250px;
+  background-color: rgb(250, 250, 229);
+  margin: 5px 10px;
+}
+.box h3{
+  margin: 10px 10px;
+}
+.box p {
+  font-size: 18px;
+  margin: 10px 10px;
+  line-height: 15px;
+  justify-content: center;
+}
+
+/*------------- FSD1----------------- */
+
+
+.rc{
+  width: 78%;
+   
+  background-color: rgb(244, 253, 253);
+  color: #000;
+ 
+}
+.rc nav {
+  display: flex;
+  padding: 20px 20px;
+  justify-content: space-between;
+  background-color: #d6ebfa;
+  
+}
+.right_content h2 {
+  text-align: end;
+}
+.batch_details{
+  
+}
+table {
+  width: 85%;
+  text-align: center;
+  justify-content: center;
+  margin: 30px 90px
+}
+
+table th{
+  border: 1px solid #d1cfcf;
+  padding: 15px 15px;
+  height: 30px;
+}
+table td{
+  border: 1px solid #d1cfcf;
+  text-align: center;
+  justify-content: center;
+  padding: 15px 15px;
+  height: 20px;
+}
+table i{
+  padding: 5px 5px;
+}  
+
+ 
+
+
+
+
+
+
+
+/*----------------- create-------------- */
+
+.container{
+  background-color: rgb(184, 252, 252);
+   width: 500px;
+   margin-left: 150px;
+   justify-content: center;
+  padding: 50px 50px;
+
+}
+ .c1{
+   display: flex;
+ }
+ .c2{
+  display: flex;
+}
+.c3{
+  display: flex;
+}
+.c4{
+  display: flex;
+}
